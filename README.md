@@ -1,5 +1,7 @@
 # examen
 
+Repositorio nuevo de examen parcial 1 de admin de BD
+
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
